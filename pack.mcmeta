@@ -1,6 +1,10 @@
 {
   "pack": {
-    "pack_format": 61,
-    "description": "Removes grass, tall grass, kelp, seagrass, and fern from the world generation."
+    "pack_format": 57,
+    "supported_formats": {
+      "min_inclusive": 57,
+      "max_inclusive": 67
+    },
+    "description": "Removes vegetation from worldgen"
   }
 }
