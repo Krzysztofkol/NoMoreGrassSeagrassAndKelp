@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:underwater_cave",
+  "config": {
+    "fluid": "minecraft:water",
+    "block_whitelist": [],
+    "kelp_chance": 0.0
+  }
+}

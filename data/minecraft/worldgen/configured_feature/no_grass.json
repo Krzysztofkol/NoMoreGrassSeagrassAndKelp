@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:vegetation_patch",
+  "config": {
+    "surface": "floor",
+    "vegetation_feature": "minecraft:no_op",
+    "xz_radius": 0,
+    "y_radius": 0
+  }
+}
