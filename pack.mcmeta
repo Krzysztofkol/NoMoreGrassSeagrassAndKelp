@@ -1,10 +1,6 @@
 {
   "pack": {
     "pack_format": 57,
-    "supported_formats": {
-      "min_inclusive": 57,
-      "max_inclusive": 67
-    },
-    "description": "Removes vegetation from worldgen"
+    "description": "Minecraft JE 1.21.2 datapack that removes specific types of vegetation from worldgen"
   }
 }
