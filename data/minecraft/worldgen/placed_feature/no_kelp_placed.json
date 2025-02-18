@@ -1,0 +1,8 @@
+{
+    "feature": "minecraft:no_grass",
+    "placement": [
+      {
+        "type": "minecraft:biome"
+      }
+    ]
+}
