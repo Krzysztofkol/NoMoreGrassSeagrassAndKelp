@@ -1,6 +1,10 @@
 {
   "pack": {
     "pack_format": 57,
-    "description": "Minecraft JE 1.21.2 datapack that removes specific types of vegetation from worldgen"
+    "supported_formats": {
+      "min_inclusive": 57,
+      "max_inclusive": 67
+    },
+    "description": "MC 1.21.2+ datapack that removes grass, seagrass, and kelp from world generation."
   }
 }

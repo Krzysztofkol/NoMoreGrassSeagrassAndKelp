@@ -1,8 +1,0 @@
-{
-    "feature": "minecraft:no_seagrass",
-    "placement": [
-      {
-        "type": "minecraft:biome"
-      }
-    ]
-}
